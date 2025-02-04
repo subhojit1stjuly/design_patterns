@@ -59,3 +59,17 @@ Some patterns may include:
 - Don't force patterns where they're not needed
 - Consider the context and requirements
 - Focus on maintainability and flexibility
+
+## Types of Design Patterns
+
+Design patterns can be categorized into three main types:
+
+### 1. Creational Design Patterns
+These types of design patterns solve object creation related design problems. They provide solutions for creating objects in a manner suitable to the situation, abstracting the instantiation process.
+
+### 2. Structural Design Patterns
+These types of design patterns solve the relationship between objects. They help ensure that different parts of an application work together seamlessly and define how objects and classes can be composed to form larger structures.
+
+### 3. Behavioral Design Patterns
+These types of design patterns solve how objects should communicate with each other. They identify common communication patterns between objects and provide solutions for effective interaction and responsibility distribution between objects.
+
